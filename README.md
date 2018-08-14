@@ -1,5 +1,5 @@
 # hello-world
 
-Hello people'
+Hello people,
 
 Mike here. Just trying to live my best life.
